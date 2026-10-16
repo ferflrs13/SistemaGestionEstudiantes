@@ -34,4 +34,4 @@ Abre el proyecto en Visual Studio Code y ejecuta el archivo `Main.java`. Despué
 
 ## Autor
 
-Fernando Floresp.
+Fernando Flores.
